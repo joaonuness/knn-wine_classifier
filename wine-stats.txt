@@ -1,0 +1,264 @@
+fixed acidity
+count    1599.000000
+mean        8.319637
+std         1.741096
+min         4.600000
+25%         7.100000
+50%         7.900000
+75%         9.200000
+max        15.900000
+Name: 0, dtype: float64
+
+volatile acidity
+count    1599.000000
+mean        0.527821
+std         0.179060
+min         0.120000
+25%         0.390000
+50%         0.520000
+75%         0.640000
+max         1.580000
+Name: 1, dtype: float64
+
+citric acid
+count    1599.000000
+mean        0.270976
+std         0.194801
+min         0.000000
+25%         0.090000
+50%         0.260000
+75%         0.420000
+max         1.000000
+Name: 2, dtype: float64
+
+residual sugar
+count    1599.000000
+mean        2.538806
+std         1.409928
+min         0.900000
+25%         1.900000
+50%         2.200000
+75%         2.600000
+max        15.500000
+Name: 3, dtype: float64
+
+chlorides
+count    1599.000000
+mean        0.087467
+std         0.047065
+min         0.012000
+25%         0.070000
+50%         0.079000
+75%         0.090000
+max         0.611000
+Name: 4, dtype: float64
+
+free sulfur dioxide
+count    1599.000000
+mean       15.874922
+std        10.460157
+min         1.000000
+25%         7.000000
+50%        14.000000
+75%        21.000000
+max        72.000000
+Name: 5, dtype: float64
+
+total sulfur dioxide
+count    1599.000000
+mean       46.467792
+std        32.895324
+min         6.000000
+25%        22.000000
+50%        38.000000
+75%        62.000000
+max       289.000000
+Name: 6, dtype: float64
+
+density
+count    1599.000000
+mean        0.996747
+std         0.001887
+min         0.990070
+25%         0.995600
+50%         0.996750
+75%         0.997835
+max         1.003690
+Name: 7, dtype: float64
+
+pH
+count    1599.000000
+mean        3.311113
+std         0.154386
+min         2.740000
+25%         3.210000
+50%         3.310000
+75%         3.400000
+max         4.010000
+Name: 8, dtype: float64
+
+sulphates
+count    1599.000000
+mean        0.658149
+std         0.169507
+min         0.330000
+25%         0.550000
+50%         0.620000
+75%         0.730000
+max         2.000000
+Name: 9, dtype: float64
+
+alcohol
+count    1599.000000
+mean       10.422983
+std         1.065668
+min         8.400000
+25%         9.500000
+50%        10.200000
+75%        11.100000
+max        14.900000
+Name: 10, dtype: float64
+
+quality
+count    1599.000000
+mean        5.636023
+std         0.807569
+min         3.000000
+25%         5.000000
+50%         6.000000
+75%         6.000000
+max         8.000000
+Name: 11, dtype: float64
+
+fixed acidity
+count    4898.000000
+mean        6.854788
+std         0.843868
+min         3.800000
+25%         6.300000
+50%         6.800000
+75%         7.300000
+max        14.200000
+Name: 0, dtype: float64
+
+volatile acidity
+count    4898.000000
+mean        0.278241
+std         0.100795
+min         0.080000
+25%         0.210000
+50%         0.260000
+75%         0.320000
+max         1.100000
+Name: 1, dtype: float64
+
+citric acid
+count    4898.000000
+mean        0.334192
+std         0.121020
+min         0.000000
+25%         0.270000
+50%         0.320000
+75%         0.390000
+max         1.660000
+Name: 2, dtype: float64
+
+residual sugar
+count    4898.000000
+mean        6.391415
+std         5.072058
+min         0.600000
+25%         1.700000
+50%         5.200000
+75%         9.900000
+max        65.800000
+Name: 3, dtype: float64
+
+chlorides
+count    4898.000000
+mean        0.045772
+std         0.021848
+min         0.009000
+25%         0.036000
+50%         0.043000
+75%         0.050000
+max         0.346000
+Name: 4, dtype: float64
+
+free sulfur dioxide
+count    4898.000000
+mean       35.308085
+std        17.007137
+min         2.000000
+25%        23.000000
+50%        34.000000
+75%        46.000000
+max       289.000000
+Name: 5, dtype: float64
+
+total sulfur dioxide
+count    4898.000000
+mean      138.360657
+std        42.498065
+min         9.000000
+25%       108.000000
+50%       134.000000
+75%       167.000000
+max       440.000000
+Name: 6, dtype: float64
+
+density
+count    4898.000000
+mean        0.994027
+std         0.002991
+min         0.987110
+25%         0.991723
+50%         0.993740
+75%         0.996100
+max         1.038980
+Name: 7, dtype: float64
+
+pH
+count    4898.000000
+mean        3.188267
+std         0.151001
+min         2.720000
+25%         3.090000
+50%         3.180000
+75%         3.280000
+max         3.820000
+Name: 8, dtype: float64
+
+sulphates
+count    4898.000000
+mean        0.489847
+std         0.114126
+min         0.220000
+25%         0.410000
+50%         0.470000
+75%         0.550000
+max         1.080000
+Name: 9, dtype: float64
+
+alcohol
+count    4898.000000
+mean       10.514267
+std         1.230621
+min         8.000000
+25%         9.500000
+50%        10.400000
+75%        11.400000
+max        14.200000
+Name: 10, dtype: float64
+
+quality
+count    4898.000000
+mean        5.877909
+std         0.885639
+min         3.000000
+25%         5.000000
+50%         6.000000
+75%         6.000000
+max         9.000000
+Name: 11, dtype: float64
+
